@@ -1,2 +1,2 @@
 # Hello-World
-Exercício 01 
+Primeiro exercício da primeira semana de aula da Cubos Academy. 
